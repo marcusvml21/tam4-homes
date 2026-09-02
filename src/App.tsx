@@ -29,7 +29,7 @@ const fadeIn = {
   transition: { duration: 0.6 }
 };
 
-const WHATSAPP_NUMBER = "17869160997";
+const WHATSAPP_NUMBER = "16897991125";
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}`;
 
 const Logo = ({ className = "" }: { className?: string }) => (
@@ -381,8 +381,8 @@ export default function App() {
                 <ul className="space-y-1.5 text-xs text-secondary">
                   <li>Orlando - FL</li>
                   <li>
-                    <a href="https://wa.me/17869160997" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                      +1 (786) 916-0997
+                    <a href="https://wa.me/16897991125" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                      +1 (689) 799-1125
                     </a>
                   </li>
                   <li>
@@ -396,7 +396,7 @@ export default function App() {
               <div>
                 <h4 className="font-semibold text-primary mb-2 uppercase text-[10px] tracking-widest">{t.footer.support}</h4>
                 <ul className="space-y-1.5 text-xs text-secondary">
-                  <li><a href="https://wa.me/17869160997" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">WhatsApp Support</a></li>
+                  <li><a href="https://wa.me/16897991125" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">WhatsApp Support</a></li>
                   <li><a href="#" className="hover:text-primary transition-colors">Contact Orlando Office</a></li>
                   <li><a href="#" className="hover:text-primary transition-colors">{t.footer.privacy}</a></li>
                   <li><a href="#" className="hover:text-primary transition-colors">{t.footer.terms}</a></li>
